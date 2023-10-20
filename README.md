@@ -1,1 +1,1 @@
-# manual.github.io
+# manual
